@@ -39,7 +39,6 @@ effort, improve request processing, and provide centralized tracking.
 - Automated notifications
 - Request tracking
 - Workflow automation
-- Dashboard and reporting
 
 ## 🔁 Workflow
 
@@ -70,8 +69,7 @@ Automates request assignment, approvals, notifications and fulfillment.
 ### Security
 ACLs and role-based access control.
 
-### Reporting
-Reports and dashboard for monitoring network requests.
+
 
 ## 👩‍💻 Developer
 
