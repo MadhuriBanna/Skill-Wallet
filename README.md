@@ -80,5 +80,4 @@ B.Tech CSE (Data Science)
 NSRIT, Visakhapatnam
 
 ---
-
 ⭐ ServiceNow | ITSM | Workflow Automation | Data Science
